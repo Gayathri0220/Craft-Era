@@ -7,7 +7,7 @@
        function appendData(arr) {
        var main_div = document.getElementById('left_section'); 
        arr.forEach(function(elem,index)
-    {
+    { 
 
         let cart_item = document.createElement('div')
         cart_item.setAttribute("class","cart-item")
