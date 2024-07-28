@@ -1,0 +1,33 @@
+WORK PLACE:
+ --  A work area that is used by artisians to design the crafts 
+--The work place contains all the requirement materials and provide a suitable craft environment for workshop
+
+ARTISIONS:
+-- A well trained artisions are our employers who designs innovative products 
+--High payments are provided to a profisonal artisions a beginner will have basic salary 
+
+WORKSHOP:
+-- Our company organizing a workshop to  develope a skill to design a craft
+--Duration of workshop will be 2-3months 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
