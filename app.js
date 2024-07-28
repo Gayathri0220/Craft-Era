@@ -12,7 +12,7 @@ openShopping.addEventListener('click', ()=>{
 closeShopping.addEventListener('click', ()=>{
     body.classList.remove('active');
 })
-
+ 
 let products = [
     {
         id: 1,
