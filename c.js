@@ -6,7 +6,7 @@ function addToCart(productName, productPrice) {
     // Append the cart item to the cart items container
     const cartItemsContainer = document.getElementById('cart-items');
     cartItemsContainer.appendChild(cartItem);
-}
+} 
 
 // Add click event listeners to all "Add to Cart" buttons
 const addToCartButtons = document.querySelectorAll('.add-to-cart');
